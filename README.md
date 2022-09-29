@@ -2,7 +2,7 @@
 
 Copyright "1988-1998 ANSYS, Inc."
 
-Copyright "Arash Jalil-Khabbazi"
+Copyright for the forked version "Arash Jalil-Khabbazi"
 
 All Rights Reserved
 
