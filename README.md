@@ -1,7 +1,9 @@
 # Directed-studies-course for "Advanced Thermodynamics" Topics, particularly "Equations of State and Mixing/Combining Rules"
 
 Copyright "1988-1998 ANSYS, Inc."
+
 Copyright "Arash Jalil-Khabbazi"
+
 All Rights Reserved
 
 Some sections of the current code is unpublished proprietary source code of ANSYS, Inc.
