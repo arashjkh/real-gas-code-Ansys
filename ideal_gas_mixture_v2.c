@@ -1,33 +1,32 @@
 /*
-   *sccs id: @(#)real_ideal.c	1.10 Copyright 1900/11/09 ANSYS, Inc.
- */
-
-/*
- *   Copyright 1988-1998 ANSYS, Inc.
- *   All Rights Reserved
+ * =============================================================================
+ *  File:        real_ideal.c
+ *  Original ID: @(#)real_ideal.c    1.10
+ *  Original Copyright © 1988–1998 ANSYS, Inc.
+ *  All Rights Reserved.
  *
- *   This is unpublished proprietary source code of ANSYS, Inc.
- *   It is protected by U.S. copyright law as an unpublished work
- *   and is furnished pursuant to a written license agreement. It
- *   is considered by ANSYS, Inc. to be confidential and may not be
- *   used, copied, or disclosed to others except in accordance with
- *   the terms and conditions of the license agreement.
- */
-
-/*   
- *   Copyright for the forked version "Arash Jalil-Khabbazi"
- */
-
-
-
-/*
- * Warning!!! Including udf.h is for getting definitions for
- *         ANSYS FLUENT constructs such as Domain.  You must
- *         NOT reference any ANSYS FLUENT globals directly from 
- *         within this module nor link this against any ANSYS 
- *         FLUENT libs, doing so will cause dependencies on a 
- *         specific ANSYS FLUENT binary such as fl551.exe and 
- *         thus won't be version independent.
+ *  This file contains unpublished proprietary source code of ANSYS, Inc.
+ *  It is protected by U.S. copyright law as an unpublished work and is
+ *  furnished under a written license agreement. It is considered confidential
+ *  and may not be used, copied, modified, or disclosed except in accordance
+ *  with the terms of that agreement.
+ * =============================================================================
+ *
+ *  Forked and extended version by Arash Jalil-Khabbazi
+ *  Copyright © 2023 Arash Jalil-Khabbazi
+ *
+ *  This fork builds upon the original ANSYS framework to implement and
+ *  demonstrate property calculations for ideal gas mixtures within the
+ *  ANSYS Fluent environment. Intended for academic and illustrative use only.
+ *
+ * =============================================================================
+ *
+ *  ⚠ WARNING:
+ *  Including "udf.h" is solely for accessing definitions of ANSYS Fluent
+ *  constructs (e.g., Domain). You must NOT reference internal Fluent global
+ *  variables or link against Fluent binaries (e.g., fl551.exe), as this
+ *  creates version-dependent behavior and violates Fluent’s modular UDF design.
+ * =============================================================================
  */
 
 
