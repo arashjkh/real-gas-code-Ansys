@@ -1,16 +1,27 @@
-# Directed-studies-course for "Advanced Thermodynamics" Topics, particularly "Equations of State, Mixing and Combining Rules"
+# 🛠️ Forked Ideal Gas Code – Based on ANSYS Original
 
-Copyright "1988-1998 ANSYS, Inc."
+## 📄 Copyright Notice
 
-Copyright for the forked version "Arash Jalil-Khabbazi"
+**Original Copyright © 1988–1998 ANSYS, Inc.**  
+**Forked and Enhanced by Arash Jalil-Khabbazi**
 
-All Rights Reserved
+All Rights Reserved.
 
-This code is a fork of ANSYS Inc.'s developed code for pure ideal gases (defined with air in the manual).
-The main structure of the current code is unpublished proprietary source code of ANSYS, Inc.
-It is protected by U.S. copyright law as an unpublished work and is furnished pursuant to a written license agreement.
-It is considered by ANSYS, Inc. to be confidential and may not be used, copied, or disclosed to others except
-in accordance with the terms and conditions of the license agreement.
+This repository contains a forked and extended version of proprietary code originally developed by **ANSYS, Inc.** for simulating pure ideal gases (as defined using air in the original manual). The foundational structure of this code is **unpublished proprietary software** and is **protected by U.S. copyright law**.  
+It was furnished under a written license agreement and is considered **confidential** by ANSYS, Inc. Usage, reproduction, or disclosure is permitted only in accordance with the terms of that agreement.
 
-This code is only a sample for demonstrating the overall structure. More complicated and accurate codes has been developed.
-For more information send an email to: arashjkh@gmail.com
+---
+
+## 📌 About This Fork
+
+This version has been modified and improved by **Arash Jalil-Khabbazi** to demonstrate the computational structure for modeling ideal gas behavior. These enhancements serve academic and illustrative purposes.
+
+> ⚠️ **Disclaimer:** This is a simplified sample for demonstration only. More accurate and complex implementations have been developed separately.
+
+---
+
+## 📬 Contact
+
+For more information, please reach out:  
+**Email:** [arashjkh@gmail.com](mailto:arashjkh@gmail.com)
+
