@@ -4,7 +4,7 @@
 
 This repository contains a forked and extended version of a proprietary thermodynamic model originally developed by **ANSYS, Inc.** for simulating **ideal gas mixtures** in **ANSYS Fluent** using a **User-Defined Function (UDF)**.
 
-The forked version by **Arash Jalil-Khabbazi** expands upon the original structure, demonstrating how to calculate thermophysical properties of multi-species gas mixtures based on polynomial fits for specific heat and critical property data. The sample configuration currently includes **hydrogen (H₂)** and **methane (CH₄)**.
+The forked version by **Arash Jalil Khabbazi** expands upon the original structure, demonstrating how to calculate thermophysical properties of multi-species gas mixtures based on polynomial fits for specific heat and critical property data. The sample configuration currently includes **hydrogen (H₂)** and **methane (CH₄)**.
 
 ---
 
